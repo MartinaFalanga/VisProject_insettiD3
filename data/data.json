@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"x": 10, "y": 20, "lunghezza": 35, "lunghezza_zampe": 10, "grandezza_occhi": 3, "grandezza_ali": 8},
+    {"x": 30, "y": 40, "lunghezza": 40, "lunghezza_zampe": 12, "grandezza_occhi": 4, "grandezza_ali": 10},
+    {"x": 50, "y": 60, "lunghezza": 45, "lunghezza_zampe": 14, "grandezza_occhi": 5, "grandezza_ali": 12},
+    {"x": 70, "y": 80, "lunghezza": 50, "lunghezza_zampe": 16, "grandezza_occhi": 6, "grandezza_ali": 13},
+    {"x": 90, "y": 100, "lunghezza": 55, "lunghezza_zampe": 18, "grandezza_occhi": 7, "grandezza_ali": 14},
+    {"x": 110, "y": 120, "lunghezza": 60, "lunghezza_zampe": 20, "grandezza_occhi": 8, "grandezza_ali": 11},
+    {"x": 140, "y": 150, "lunghezza": 65, "lunghezza_zampe": 22, "grandezza_occhi": 9, "grandezza_ali": 19},
+    {"x": 170, "y": 180, "lunghezza": 70, "lunghezza_zampe": 24, "grandezza_occhi": 10, "grandezza_ali": 20},
+    {"x": 200, "y": 210, "lunghezza": 75, "lunghezza_zampe": 26, "grandezza_occhi": 11, "grandezza_ali": 21},
+    {"x": 240, "y": 245, "lunghezza": 80, "lunghezza_zampe": 28, "grandezza_occhi": 12, "grandezza_ali": 22}
+  ]
+}
